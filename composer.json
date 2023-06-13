@@ -2,6 +2,7 @@
     "name": "manyun/lakala-ccss",
     "description": "拉卡拉收银台sdk",
     "minimum-stability": "dev",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Manyun\\LakalaCcss\\": "src/"
