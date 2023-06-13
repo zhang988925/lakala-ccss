@@ -1,0 +1,19 @@
+{
+    "name": "my/lakala-ccss",
+    "description": "拉卡拉收银台sdk",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "My\\LakalaCcss\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "manyun"
+        }
+    ],
+    "require": {
+        "php": ">7.0",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
