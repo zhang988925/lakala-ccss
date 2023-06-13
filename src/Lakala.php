@@ -1,8 +1,8 @@
 <?php
-namespace My\LakalaCcss;
+namespace Manyun\LakalaCcss;
 
-use My\LakalaCcss\Model\BaseRequest;
-use My\LakalaCcss\Model\OrderCreateReq;
+use Manyun\LakalaCcss\Model\BaseRequest;
+use Manyun\LakalaCcss\Model\OrderCreateReq;
 use GuzzleHttp\Client;
 
 /**

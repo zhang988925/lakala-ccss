@@ -1,10 +1,10 @@
 {
-    "name": "my/lakala-ccss",
+    "name": "manyun/lakala-ccss",
     "description": "拉卡拉收银台sdk",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "My\\LakalaCcss\\": "src/"
+            "Manyun\\LakalaCcss\\": "src/"
         }
     },
     "authors": [

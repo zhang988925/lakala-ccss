@@ -2,7 +2,7 @@
 
 ## 文档地址
 
-- <http://open.lakala.com/#/home/document/detail?title=%E5%85%AC%E5%85%B1%E5%8F%82%E6%95%B0&id=282> 文档地址
+- <http://open.lakala.com/#/home/document/detail?title=%E5%85%AC%E5%85%B1%E5%8F%82%E6%95%B0&id=282>
 
 ## 使用说明
 

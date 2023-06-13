@@ -1,6 +1,6 @@
 <?php
 
-namespace My\LakalaCcss\Model;
+namespace Manyun\LakalaCcss\Model;
 
 class BaseRequest
 {
